@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #778899;
+}
+h2{
+  font-family: 'Anton';
+  color: black;
+  margin-top: 5px;
+  text-align: center;
+
+}
+p {
+  font-family: 'Open Sans';
+  color: black;
+  text-align: left;
+  line-height: 2.5;
+
+}
+.grid-container{
+  width: 100vw;
+  height: 100vh;
+  display: grid;
+  grid-gap: 0px;
+}
+.center {
+  margin: auto;
+  width: 60%;
+  padding: 10px;
+}
